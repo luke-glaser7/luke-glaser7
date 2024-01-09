@@ -2,7 +2,8 @@
 - 👀 I’m interested in: Machine Learning (More interested in Neural Networks, less LLMs), Combinatorics, Operation Research, Quantum Computing (QAOA), Complexity, Data Analysis, Physics, Automation
 - 🌱 I’m currently learning.
 - 💬 Languages: R, Python, Java, C, HTML, SQL
-- 💞️ I’m looking to collaborate on task automation projects, local AI developement, programming mathematics and logic tasks, games, anything that sounds fun! 
+- 💞️ I’m looking to collaborate on task automation projects, local AI developement, programming mathematics and logic tasks, games, anything that sounds fun!
+- 🃏 Other Hobbies: Board Games, Weightlifting, Permaculture Gardening, Reading, Indie Folk Music, RPGs, Dogs, Comic books 
 - ⚡ Fun fact: ...
 
 <!---
